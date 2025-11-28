@@ -7,7 +7,8 @@ I’m an aspiring **Software Engineer** currently exploring the full stack, with
 ### 🔧 Technologies & Tools
 - **Editor:** VSCode  
 - **Version Control:** GitHub  
-- **Debugging:** Chrome DevTools  
+- **Debugging:** Chrome DevTools
+- **Deployment:"" Netlify
 
 ### 📂 Projects
 Check out my pinned projects to see what I’ve been building and experimenting with.
