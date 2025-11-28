@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Memtoz-dev/Memtoz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Memtoz**, a web developer based in **London, UK**.
 
-Here are some ideas to get you started:
+I’m an aspiring **Software Engineer** currently exploring the full stack, with a focus on **frontend development** at the moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Editor:** VSCode  
+- **Version Control:** GitHub  
+- **Debugging:** Chrome DevTools  
+
+### 📂 Projects
+Check out my pinned projects to see what I’ve been building and experimenting with.
+
+### 📫 Get in Touch
+- **LinkedIn:** [Memtoz](https://tinyurl.com/em6pucrb)  
+- **Email:** xiusmo4@gmail.com  
+
+I’m always open to collaboration, feedback, and opportunities to grow as a developer!
